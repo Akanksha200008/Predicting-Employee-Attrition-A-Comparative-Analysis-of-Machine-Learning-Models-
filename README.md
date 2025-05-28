@@ -1,1 +1,2 @@
-# Predicting-Employee-Attrition-A-Comparative-Analysis-of-Machine-Learning-Models-
+# Predicting Employee Attrition A Comparative Analysis of Machine Learning Models
+The employee attrition prediction project successfully utilized various machine learning models to analyze and predict employee turnover risk. Through effective data preprocessing, including ROSE for balancing, and implementation of multiple models such as Logistic Regression, Decision Tree, Random Forest, XGBoost, and SVM, we achieved comprehensive insights into attrition patterns. Among all models, ensemble methods like Random Forest and XGBoost delivered the highest accuracy and sensitivity, making them the most effective in predicting employees at risk. 
